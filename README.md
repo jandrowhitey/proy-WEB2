@@ -14,6 +14,7 @@ repositorios de proyectoWEB
 :+1:
 
 :octocat:
+agregamos una linea
 
 #lista de elementos:
 * elemento
@@ -21,7 +22,7 @@ repositorios de proyectoWEB
      * elemento 3
        * elemento 4
      * elemento 5  
-  
+
 #muesra de link a una web
 [web de national geographic](http://www.nationalgeographic.com.es/ciencia)
 
@@ -48,12 +49,3 @@ public void tostring(){
 - [ ] opcion 1
 - [x] opcion 2
 - [ ] opcion 3
-
-
-
-
-
-
-
-
-
